@@ -1,4 +1,4 @@
-bot_raw = {}
+bot_raw = {zyzzlaid7}
 ---======================---
 bot_raw["zyzzlaid7"] = {
 webhooks = {
