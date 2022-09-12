@@ -1,20 +1,20 @@
-bot_raw = {zyzzlaid7}
+bot_raw = {}
 ---======================---
-bot_raw["zyzzlaid7"] = {
+bot_raw[""] = {
 webhooks = {
-  ["LINK"]  = 'https://discord.com/api/webhooks/1015993556449628160/KCYAG4vmiCs9x9d2VcWt0Nu2-2A5GV-7amZAWajVl9JoxNB9D6vurjyr8DdaATaf1CGx',
+  ["LINK"]  = '',
   ["EDIT"]  = false
 },
 -----------------------
 bot_config = {
-  ["World"] = {"NXKSLA", "PDHXH", "WORHV", "GBIPB", "EEXTM", "MCMFQ", "TCXPG", "FQOCC", "QWHSW"},
-  ["Door"] = 'link1',
+  ["World"] = {""},
+  ["Door"] = '',
   ["Loop"] = true,
   ["Save_Mode"] = 1,
   ["Save"] = {
               {
-                ["World"] = "zyzzstorages",
-                ["Door"] = "link1",       --Mode 1
+                ["World"] = "",
+                ["Door"] = "",       --Mode 1
                 ["Path_Seed"] = 20,
                 ["Path_Pack"] = 12
               },
